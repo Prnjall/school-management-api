@@ -67,5 +67,7 @@ A set of RESTful APIs built with Node.js, Express.js, and MySQL to manage school
   GET /listSchools?latitude=19.9975&longitude=73.7898
   ```
 
-## Postman Collection
-*(Link to the live Postman Collection will be provided here after hosting)*
+## Live Links & Documentation
+
+- **Live API Base URL:** [https://school-management-api-w5ri.onrender.com](https://school-management-api-w5ri.onrender.com)
+- **Postman Collection:** [View and Test API in Postman](https://prnjall-1887678.postman.co/workspace/School-Management-API~2c59e375-d149-4839-b20d-5d99a715f60a/request/54625784-e17a8b59-5a96-4a18-bcd3-d4d2fda368ef?action=share&creator=54625784)
